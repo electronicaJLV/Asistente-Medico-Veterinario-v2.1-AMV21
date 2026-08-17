@@ -1,0 +1,46 @@
+"CONTRATO DE LICENCIA DEL USUARIO FINAL DEL 
+SOFTWARE A.M.V. (VERSION 2.1)"
+
+Este "Contrato de Licencia del Usuario Final" es un acuerdo legal entre el USUARIO FINAL y el OTORGANTE, representado en este acto por JUAN LUÍS VILLACORTA, venezolano, mayor de edad, comerciante, portador de la C.I.11.887.760, con respecto al producto de SOFTWARE identificado como : "A.M.V. (Versión 2.1)", el que incluye SOFTWARE e información relacionada en materiales impresos o en forma electrónica, y puede incluir documentación "en pantalla" o electrónica ("SOFTWARE o PRODUCTO DE SOFTWARE"). 
+
+Al instalar, copiar o de otra manera usar, o comprar el SOFTWARE, el USUARIO acepta obligarse por los términos de este Contrato. 
+ 
+El OTORGANTE, no se hace responsable por daños que puedan ocurrir en su equipo o sistema por mal empleo o mala instalación de este programa. El SOFTWARE está configurado para que únicamente escriba y/o lea los archivos asignados para tal fin; es decir no está programado para que lo haga en los otros archivos que se encuentren en las unidades de almacenamiento de datos del USUARIO que no tienen relación con el programa. 
+ 
+El OTORGANTE, se reserva todo los derechos de modificar al programa original y/o sus copias, en tal caso, la Licencia otorgada comprende todas las condiciones, límites y garantías admitidas al USUARIO.    
+
+Queda expresamente prohibido, cualquier intento de Destruir, Copiar, Modificar, Alterar, Aplicar Ingeniería Inversa o cualquier otra acción, al SOFTWARE o cualquiera de sus componentes, sin la autorización respectiva del OTORGANTE; así como también, la Sustracción, Modificación, Alteración, Destrucción, o copia de la Base de Datos y/o Passwords del USUARIO por cualquier medio sin la autorización respectiva del mismo.
+    
+Todos estos son delitos tipificados y penalizados por la LEY ESPECIAL CONTRA LOS DELITOS INFORMATICOS y la LEY SOBRE DERECHOS DE AUTOR de la República Bolivariana de Venezuela y otros tratados internacionales. El presente Contrato concede una licencia sobre SOFTWARE y no constituye una venta. Cualquier otra acción no descrita aquí y que atente contra los intereses del OTORGANTE serán enmarcados en las leyes respectivas y se exigirá el cumplimiento de la Ley en los Tribunales correspondientes.-
+
+1.  OTORGAMIENTO DE LICENCIA:
+
+Este Contrato de licencia otorga los siguientes derechos: 
+· Software de Sistema. Es posible instalar y usar una copia del SOFTWARE en una computadora u ordenador. Si el SOFTWARE permite que la computadora (ordenador) funcione como un servidor de red, cualquier estación de trabajo podrá acceder o de otra forma utilizar los servicios básicos de   red de ese servidor. Los servicios básicos de red se describen detalladamente en los materiales impresos que acompañan al SOFTWARE. 
+· Almacenamiento/uso en la red.  Es posible almacenar o instalar una copia del SOFTWARE en un dispositivo de almacenamiento, como un servidor de red que se use solamente para instalar o usar el SOFTWARE en las computadoras u ordenadores conectados a una red interna. Sin embargo, se debe adquirir y asignar una licencia a cada computadora u ordenador en el que se instale  o ejecute SOFTWARE desde un dispositivo de almacenamiento. La licencia sobre SOFTWARE no puede compartirse o usarse concurrentemente en diferentes computadoras u ordenadores. 
+
+2.  DESCRIPCIÓN DE OTROS DERECHOS Y LIMITACIONES:
+
+· Prohibición de ingeniería inversa, decompilación y desensamblaje. Está prohibido realizar ingeniería inversa, decompilar o desensamblar el SOFTWARE, excepto si dicha actividad está permitida expresamente por la ley. 
+· Separación de los componentes. El SOFTWARE se concede como  un producto único. Las partes que lo componen no podrán  separarse para usarse en más de una computadora u ordenador. 
+· Renta. Está prohibido alquilar el SOFTWARE. 
+· Transferencia de Software. Los derechos otorgados en este Contrato de licencia así como el SOFTWARE son intransferibles. 
+· Resolución. Sin perjuicio de cualquier otro derecho, El OTORGANTE puede resolver o terminar este Contrato de licencia en caso de incumplimiento de los términos y condiciones estipulados en el mismo. En este caso, se deberán destruir todas las copias del SOFTWARE y todos sus componentes.
+3.  ACTUALIZACIONES:
+
+ 	Si el SOFTWARE es una actualización de otro producto, ya sea del OTORGANTE o de otro proveedor sólo podrá usar o transferir el SOFTWARE junto con ese producto actualizado, salvo que destruya el producto actualizado. Si el SOFTWARE es una actualización de un producto del OTORGANTE, dicha actualización sólo se podrá usar de acuerdo con los términos de este Contrato. Si el SOFTWARE es una actualización de un componente de un paquete de software sobre el que ha obtenido una licencia como un producto individual, el SOFTWARE sólo podrá usarse y transferirse como parte de ese paquete de producto individual, y no podrá separarlo para usarlo en más de una computadora u ordenador. 
+
+4.  DERECHOS DE AUTOR:
+
+Todos los títulos y derechos de autor sobre SOFTWARE (incluyendo, sin  limitación, las imágenes, fotografías, figuras animadas vídeo, audio, música, texto y "applets" o  subprogramas, incorporados al PRODUCTO), materiales impresos que lo acompañan y otras copias del SOFTWARE, son propiedad del OTORGANTE. El SOFTWARE está protegido por las leyes de derechos de autor y las disposiciones de los tratados internacionales. Está prohibido copiar los materiales impresos que acompañan al SOFTWARE. 
+
+5.  SOFTWARE EN DOS MEDIOS:
+
+Es posible que reciba el SOFTWARE en más de un medio o soporte físico (entiéndase como medio o soporte físico, unidad de almacenamiento de datos, ejemplo: un CD-ROM). Independientemente del tipo o tamaño del medio que reciba, sólo podrá usar el medio que sea apropiado para su computadora u ordenador. Está prohibido usar o instalar el software contenido en el otro medio, en otra computadora (ordenador). El medio adicional no puede prestarse, alquilarse, ni transferirse de ninguna forma a otro USUARIO, salvo que ello involucre la transferencia permanente (como se establece anteriormente) del SOFTWARE.
+
+
+
+
+
+
+
